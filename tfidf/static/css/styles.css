@@ -1,0 +1,19 @@
+.topic {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    max-width: 320px;
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    color: #465457;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.analysis {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    border-collapse: collapse;
+}
